@@ -1,5 +1,5 @@
-# Rock-Paper-Scissors-
-# Rock Paper Scissors Game (C)
+ # Rock-Paper-Scissors-
+ # Rock Paper Scissors Game (C)
 
 A simple console-based Rock Paper Scissors game where the user plays against the computer.
 
